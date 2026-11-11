@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- broodje -->
+    <path
+        android:fillColor="#FFE9B872"
+        android:pathData="M30,64 C30,46 42,38 54,38 C66,38 78,46 78,64 C78,70 74,72 70,72 L38,72 C34,72 30,70 30,64 Z" />
+    <path
+        android:strokeColor="#FF9A4E1C"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M44,50 L48,58 M54,47 L56,56 M64,50 L62,58" />
+</vector>
