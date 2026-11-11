@@ -1,4 +1,4 @@
-# Deegwekker
+# DoughCalc
 
 Android-app om brood en pizzadeeg te bakken zonder telkens zelf een wekker te zetten.
 Eén tik op **Start rijzing** plant alle timers van een recept in één keer: stretch & folds,
@@ -23,7 +23,7 @@ De planning wordt bewaard als absolute tijden. Na een herstart van de telefoon w
 ## Installeren
 
 Elke push bouwt een APK in GitHub Actions. Open de laatste run onder **Actions → Android**,
-download het artefact `deegwekker-apk`, pak het zip-bestand uit en open `app-debug.apk` op je telefoon
+download het artefact `doughcalc-apk`, pak het zip-bestand uit en open `app-debug.apk` op je telefoon
 (sta "installeren uit onbekende bronnen" toe voor je browser of bestandsbeheer).
 
 Bij de eerste start vraagt de app om meldingen, exacte alarmen en volledig-scherm-meldingen.

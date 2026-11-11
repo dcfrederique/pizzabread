@@ -159,7 +159,7 @@ fun PermissionCard(modifier: Modifier = Modifier) {
                     Column(Modifier.weight(1f)) {
                         Text("Batterijoptimalisatie", fontWeight = FontWeight.SemiBold)
                         Text(
-                            "Op sommige toestellen (Samsung, Xiaomi) helpt het om dit uit te zetten voor Deegwekker.",
+                            "Op sommige toestellen (Samsung, Xiaomi) helpt het om dit uit te zetten voor DoughCalc.",
                             style = MaterialTheme.typography.bodySmall,
                         )
                     }

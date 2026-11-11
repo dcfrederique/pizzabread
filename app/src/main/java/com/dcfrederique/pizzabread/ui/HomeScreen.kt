@@ -39,7 +39,7 @@ fun HomeScreen(state: AppState, now: Long, nav: Navigator, modifier: Modifier = 
         verticalArrangement = Arrangement.spacedBy(16.dp),
     ) {
         item {
-            Text("Deegwekker", style = MaterialTheme.typography.headlineMedium, fontWeight = FontWeight.Bold)
+            Text("DoughCalc", style = MaterialTheme.typography.headlineMedium, fontWeight = FontWeight.Bold)
         }
         item { PermissionCard() }
         state.bake?.let { bake ->
